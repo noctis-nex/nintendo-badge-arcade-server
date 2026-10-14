@@ -1,0 +1,15 @@
+.env
+**/.env
+*.log
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+**/build/
+**/log/
+authentication/nintendo-badge-arcade-authentication
+secure/nintendo-badge-arcade-secure
+authentication/auth-server
+secure/secure-server
